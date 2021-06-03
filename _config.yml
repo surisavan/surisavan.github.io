@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Savan Suri
 email:
-description: >- I am a material scientist working at West Virginia University.
+description: I am a material scientist working at West Virginia University.
 
 twitter_username: savansuri
 github_username: surisavan
